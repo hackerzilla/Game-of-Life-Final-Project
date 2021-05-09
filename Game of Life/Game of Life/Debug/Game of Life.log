@@ -1,0 +1,9 @@
+﻿  Application.cpp
+C:\Users\jpear\Academia\2021_Spring\CIS27\FinalProject\Game of Life\Game of Life\Application.cpp(20,11): error C2065: 'SDL_INIT_EVERYTHING': undeclared identifier
+C:\Users\jpear\Academia\2021_Spring\CIS27\FinalProject\Game of Life\Game of Life\Application.cpp(20,2): error C3861: 'SDL_Init': identifier not found
+C:\Users\jpear\Academia\2021_Spring\CIS27\FinalProject\Game of Life\Game of Life\Application.cpp(21,2): error C2065: 'SDL_WINDOW': undeclared identifier
+C:\Users\jpear\Academia\2021_Spring\CIS27\FinalProject\Game of Life\Game of Life\Application.cpp(21,14): error C2065: 'window': undeclared identifier
+C:\Users\jpear\Academia\2021_Spring\CIS27\FinalProject\Game of Life\Game of Life\Application.cpp(21,49): error C2065: 'SDL_WINDOWPOS_CENTERED': undeclared identifier
+C:\Users\jpear\Academia\2021_Spring\CIS27\FinalProject\Game of Life\Game of Life\Application.cpp(21,73): error C2065: 'SDL_WINDOWPOS_CENTERED': undeclared identifier
+C:\Users\jpear\Academia\2021_Spring\CIS27\FinalProject\Game of Life\Game of Life\Application.cpp(21,107): error C2065: 'SDL_WINDOW_SHOWN': undeclared identifier
+C:\Users\jpear\Academia\2021_Spring\CIS27\FinalProject\Game of Life\Game of Life\Application.cpp(21,23): error C3861: 'SDL_CreateWindow': identifier not found
