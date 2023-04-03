@@ -35,4 +35,4 @@ Program Setup Procedure:
 16. In Linker -> Input add "SDL2main.lib", "SDL2.lib" and "SDL2_image.lib" to "Additional Dependencies"
 17. Open the solution and press F5 to run program! Enjoy!
 
-p.s. Feel free to email me at j.pearbach@yahoo.com if it doesn't build or execute properly.
+p.s. Feel free to email me at j.pearbach@berkeley.edu if it doesn't build or execute properly.
